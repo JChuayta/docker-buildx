@@ -1,5 +1,5 @@
 # BUILDX
-# docker buildx build --platform linux/amd64,linux/arm64,linux/arm/v7 \
+# docker buildx build --platform linux/amd64,linux/arm64,linux/arm/v7 `
 #    -t jchuayta/cron-ticker:latest --push .
 
 # /app /usr /lib
